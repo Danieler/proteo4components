@@ -1,4 +1,10 @@
 # date-output
 
-date output listen emit 'emitDate' event and render it
 
+
+<!-- Auto Generated Below -->
+
+
+----------------------------------------------
+
+*Built with [StencilJS](https://stenciljs.com/)*

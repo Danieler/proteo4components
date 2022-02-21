@@ -1,3 +1,23 @@
 # init-date
 
-use DateUtil utily for initialize the date in 'dd/MM/yyyy' format and pass it to "date-button" component
+
+
+<!-- Auto Generated Below -->
+
+
+## Dependencies
+
+### Depends on
+
+- [date-button](../date-button)
+
+### Graph
+```mermaid
+graph TD;
+  init-date --> date-button
+  style init-date fill:#f9f,stroke:#333,stroke-width:4px
+```
+
+----------------------------------------------
+
+*Built with [StencilJS](https://stenciljs.com/)*
