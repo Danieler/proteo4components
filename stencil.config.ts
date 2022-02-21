@@ -19,8 +19,8 @@ export const config: Config = {
       serviceWorker: null, // disable service workers
     },
     angular({
-      componentCorePackage: `your-stencil-library-name`,
-      directivesProxyFile: `../your-angular-workspace-name/projects/your-angular-library-name/src/lib/stencil-generated/components.ts`
+      componentCorePackage: `inputdate`,
+      directivesProxyFile: `../proteoEventsFront/projects/inputdate/src/lib/stencil-generated/components.ts`
     }),
   ],
 };
